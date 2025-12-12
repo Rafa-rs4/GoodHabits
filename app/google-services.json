@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "95673852964",
+    "project_id": "goodhabits-5f00a",
+    "storage_bucket": "goodhabits-5f00a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95673852964:android:5296a28979c11ae903a4b1",
+        "android_client_info": {
+          "package_name": "com.example.goodhabits"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95673852964-5vb8jc57kpiod3hqd9i3pppvb2kdaqrq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.goodhabits",
+            "certificate_hash": "d3be4de3f984217fcd77b5e357e1f6c22e9deeca"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfb97EUMr2EDTs1K64YXJVq2Ns7D51gYY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
