@@ -1,4 +1,4 @@
-# 📱 GoodHabits
+# GoodHabits
 
 Aplicación Android para **crear, organizar y dar seguimiento a hábitos saludables**. Reúne en un solo lugar hábitos diarios, tareas, meditación, nutrición y ejercicio, y muestra el progreso del usuario.
 
@@ -8,18 +8,18 @@ Aplicación Android para **crear, organizar y dar seguimiento a hábitos saludab
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-API%2024%2B-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-- ✅ **Hábitos:** creación por categorías, registro diario e insignias de logro
-- 📝 **Checklist de tareas** con historial
-- 🧘 **Meditación** con música de fondo
-- 🥗 **Nutrición:** planes de comidas
-- 🏋️ **Ejercicio** con mapa y ubicación (osmdroid + GPS)
-- 📈 **Progreso:** seguimiento visual del avance
-- 🔐 **Inicio de sesión** con Firebase Authentication y Google
-- ⚙️ **Ajustes** de usuario
+- **Hábitos:** creación por categorías, registro diario e insignias de logro
+- **Checklist de tareas** con historial
+- **Meditación** con música de fondo
+- **Nutrición:** planes de comidas
+- **Ejercicio** con mapa y ubicación (osmdroid + GPS)
+- **Progreso:** seguimiento visual del avance
+- **Inicio de sesión** con Firebase Authentication y Google
+- **Ajustes** de usuario
 
-## 🏗️ Arquitectura
+## Arquitectura
 
 Patrón **MVVM** con repositorios:
 
@@ -38,7 +38,7 @@ app/src/main/java/com/example/goodhabits/
 └── ui/             # Tema y componentes
 ```
 
-## 🧰 Tecnologías
+## Tecnologías
 
 | Capa | Tecnología |
 |:--|:--|
@@ -47,12 +47,12 @@ app/src/main/java/com/example/goodhabits/
 | Nube | Firebase Auth · Realtime Database · Cloud Storage |
 | Otros | Google Play Services (ubicación), osmdroid (mapas) |
 
-## 🚀 Cómo ejecutarlo
+## Cómo ejecutarlo
 
 1. Clona el repositorio y ábrelo en **Android Studio**.
 2. Agrega tu propio `app/google-services.json` desde la consola de Firebase.
 3. Sincroniza Gradle y ejecuta la app en un emulador o dispositivo con Android 7.0 (API 24) o superior.
 
-## 👤 Autor
+## Autor
 
 **Rafael Roncal Saravia**: [LinkedIn](https://www.linkedin.com/in/rafael-roncal-saravia) · [GitHub](https://github.com/Rafa-rs4)
