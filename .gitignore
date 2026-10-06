@@ -13,3 +13,9 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Configuración del IDE
+/.idea/
+
+# Credenciales de Firebase (cada desarrollador usa el suyo)
+app/google-services.json
